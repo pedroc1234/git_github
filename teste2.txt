@@ -1,4 +1,7 @@
-dsefsdfsfsf
-rgd
-grdg
-rdsgsrgrsd
+echo "# GIT_HUB" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/pedroc1234/GIT_HUB.git
+git push -u origin main
